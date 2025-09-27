@@ -37,4 +37,4 @@ indicators and visual insights in an intuitive and interactive format.
 - Data storytelling and presentation
 
 -  📷 Screenshots
-
+https://github.com/ef5353/Super-Store-Sales-Dashboard/blob/main/Screen%20Shott.JPG
